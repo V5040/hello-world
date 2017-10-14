@@ -1,2 +1,2 @@
 # hello-world
-cout &lt;&lt; "Hello World!";
+"Hi, I'm from Earth!"
