@@ -1,2 +1,2 @@
 # hello-world
-"Hi, I'm from Earth!"
+cout &lt;&lt; "Hello World!";
